@@ -4,10 +4,10 @@ div align="center">
   <h1>🌌Orewa_Zenith live SYNCSTREAM</h1>
   <p>A High-End Creative room Engine</p>
 
-  <a href="https://orewa-zenith-portfolio.vercel.app/">
+  <a href="https://syncstream-eta.vercel.app/#/login">
     <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
-  <a href="https://github.com/touseef78286/orewa_zenith-portfolio">
+  <a href="https://github.com/touseef78286/SYNCSTREAM?tab=readme-ov-file">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
   </a>
 </div>
