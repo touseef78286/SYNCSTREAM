@@ -1,0 +1,8 @@
+{
+  "name": "SyncStream",
+  "description": "A high-fidelity co-watching platform featuring real-time video synchronization, integrated web browsing with video extraction, and P2P voice chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
